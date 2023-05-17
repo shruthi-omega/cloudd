@@ -3,5 +3,7 @@ English: tue
 MatheMatics:wed
 Science:thr
 Social:friday
-
+physcial exercise
+yoga
+kharate
 

@@ -1,0 +1,7 @@
+Kannada: mon
+English: tue
+MatheMatics:wed
+Science:thr
+Social:friday
+
+
